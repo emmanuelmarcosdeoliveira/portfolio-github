@@ -6,7 +6,7 @@ const Sidebar = () => {
       {' '}
       <aside>
         <img src="https://github.com/emmanuelmarcosdeoliveira.png" />
-        <Title> Emmanuel Oliveira </Title>
+        <Title fontSize={20}> Emmanuel Oliveira </Title>
       </aside>
     </>
   )

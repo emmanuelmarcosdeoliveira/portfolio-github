@@ -5,13 +5,12 @@ const EstiloGlobal = createGlobalStyle`
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: "Inter", sans-serif;
   },
   body {
     padding-block: 80px;
-  }
-`
-
-export default EstiloGlobal
+  },
+  `
 
 export const Container = styled.div`
   max-width: 1024px;
@@ -25,14 +24,4 @@ export const Container = styled.div`
     border-radius: 50%;
   }
 `
-
-import { createGlobalStyle } from 'styled-components'
-
-const EstiloGlobal = createGlobalStyle`
-* {
-  margin: 0;
-  padding: 0;
-  }
-`
-
 export default EstiloGlobal
