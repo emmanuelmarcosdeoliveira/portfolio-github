@@ -102,10 +102,12 @@ Caso isso não ocorra digite na barra de endereço do navegador**
 http://localhost:3000
 ```
 
-<!-- Imagem de Demostração -->
-<!-- <h3 align="center"> Imagem de demostração do Projeto
-<img src="./src/assets/images/print.png" alt="Print do Projeto"/>
-</h3> -->
+ <!-- Imagem de Demostração -->
+<h3 align="center"> Imagem de demostração do Projeto
+
+</br>
+<img src="./public/print-project.png" alt="Print do Projeto"/>
+</h3>
 
 <!-- Video de Demostraçào -->
  <!-- <h3 align="center">📽️project demonstration video</h3> -->
