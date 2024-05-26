@@ -9,5 +9,4 @@ const Projeto = () => (
     <LinkBotao>Visualizar</LinkBotao>
   </Card>
 )
-
 export default Projeto

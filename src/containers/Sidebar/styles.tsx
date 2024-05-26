@@ -2,14 +2,14 @@ import styled from 'styled-components'
 import { P } from '../../components/Paragrafo/styles'
 
 export const Descricao = styled(P)`
-  margin-top: 24px;
-  margin-bottom: 40px;
+  margin-top: 12px;
+  margin-bottom: 24px;
 `
 export default Descricao
 
 export const BotaoTema = styled.button`
   background-color: ${(props) => props.theme.primaryColor};
-  border-radius: 12px;
+  border-radius: 6px;
   padding: 8px;
   color: ${(props) => props.theme.bgColor};
   font-size: 10px;
