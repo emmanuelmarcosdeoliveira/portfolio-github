@@ -9,6 +9,8 @@
 <!-- Titulo do Projeto -->
 
 ## ✨ Portfólio GitHub
+![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=react&logoColor=%2358C4DC&logoSize=auto&label=React&labelColor=black&color=%2358C4DC)
+![Fork](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/portfolio-github?style=plastic)
 
 _Esse Projeto foi desenvolvido para a prática de React, ele foi criado com  _create-react-app_ onde estamos utilizando _typescript_ , _style-componet_ , _ESLint_ integrando uma **API** do GitHub com o **Rect.js**_
 
