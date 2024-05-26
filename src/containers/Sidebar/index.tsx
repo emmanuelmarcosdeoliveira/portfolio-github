@@ -1,15 +1,25 @@
 import Title from '../../components/Title'
+import Avatar from '../../components/Avatar'
+import Paragrafo from '../../components/Paragrafo'
+import { Descricao, BotaoTema, SidebarContainer } from './styles'
 
-const Sidebar = () => {
-  return (
-    <>
-      {' '}
-      <aside>
-        <img src="https://github.com/emmanuelmarcosdeoliveira.png" />
-        <Title fontSize={20}> Emmanuel Oliveira </Title>
-      </aside>
-    </>
-  )
+type Props = {
+  changeTheme: () => void
 }
 
+const Sidebar = (props: Props) => (
+  <aside>
+    <SidebarContainer>
+      <Avatar />
+      <Title fontSize={16}> Emmanuel M. Oliveira </Title>
+      <Paragrafo tipo="secundario" fonteSize={9}>
+        emmanuelmarcosdeoliveira
+      </Paragrafo>
+      <Descricao tipo="principal" fonteSize={12}>
+        Developer Web FullStack
+      </Descricao>
+      <BotaoTema onClick={props.changeTheme}>Trocar Tema</BotaoTema>
+    </SidebarContainer>
+  </aside>
+)
 export default Sidebar
