@@ -10,11 +10,11 @@
 
 ## ✨ Portfólio GitHub
 
-_Esse Projeto foi desenvolvido para a prática de React ele foi criado com    _create-react-app_ onde estamos utilizando _typescript_ , _style-componet_ , _ESLint_ integrando uma **API** do GitHub com o **Rect.js**_
+_Esse Projeto foi desenvolvido para a prática de React, ele foi criado com  _create-react-app_ onde estamos utilizando _typescript_ , _style-componet_ , _ESLint_ integrando uma **API** do GitHub com o **Rect.js**_
 
 <!-- Menu -->
 
-## Tablet of Conent
+## Table of Contents
 
 - [Project description](#-portfólio-github)
 - [Setup](#setup)
@@ -35,7 +35,7 @@ Para que você consiga rodar o projeto em seu computador é necessario que você
 
 ### Prerequisites
 `Node.js` `VSCode` `Git`
-- Run Time [Node.js](https://nodejs.org/en/) podeno ser a versão _16 ou superior_.<br>
+- Run Time [Node.js](https://nodejs.org/en/) com a versão _16 ou superior_.<br>
 - Um editor de códigos onde eu recomendo o [VCode](https://code.visualstudio.com/)<br>
 - E o [git](https://git-scm.com/downloads) uma aplicaçào de versionamento de código.
 
@@ -49,20 +49,27 @@ Para que você consiga rodar o projeto em seu computador é necessario que você
 
 ## Instalation
 
-Para que você consiga rodar esse projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer isso estou deixando um **link** para a documentação oficial do gitHub onde é esclarecido como fazer essse processo. Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
+Para que você consiga rodar esse projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer isso estou deixando um **link** para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.<br> Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
 
-Depois de ter feito o **fork** vamos fazer o [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) desse Repositório atráves do **VSCode**. Caso você não saiba como fazer isso estou deixando um link para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.
+Depois de ter feito o **fork** vamos fazer o [clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) desse Repositório atráves do **VSCode**. </br>
+ Caso você não saiba como fazer isso estou deixando um link para a documentação oficial do gitHub onde é esclarecido como fazer essse processo.
 <br>
+<sub>Command Line</sub>
+
+```bash
+git clone https://github.com/emmanuelmarcosdeoliveira/github-profile
+```
+
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository"></a>
 
-Dentro do nosso**VSCode** vamos abrir o nosso **terminal**. Temos que baixar as dependências do Projeto para o nosso computador para que ele consiga ser Executado:
+Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as dependências do Projeto para o nosso computador para que ele consiga ser Executado:
 
 **1. Instalando as dependências**<br>
-<sub>Command-line usage</sub>
+<sub>Command Line</sub>
 
 ```bash
 npm install
@@ -81,7 +88,7 @@ npm install
 ## Usage
 
 **2. Inicie o servidor de Desenvolvimento com o seguinte comando dentro do Terminal**<br>
-<sub>Command-line usage</sub>
+<sub>Command Line</sub>
 
 ```bash
 npm run start
@@ -91,7 +98,7 @@ npm run start
 **3. Será aberto uma janela no seu Navegador com o projeto sendo executado.
 Caso isso não ocorra digite na barra de endereço do navegador**
 
-```http
+```bash
 http://localhost:3000
 ```
 
@@ -103,13 +110,13 @@ http://localhost:3000
 <!-- Video de Demostraçào -->
  <!-- <h3 align="center">📽️project demonstration video</h3> -->
 
-<div align="center">
+<!-- <div align="center">
 Acesse a versão on-line Projeto clicando no Link Abaixo
 <br>
 <a href="https://github-profile-devoliveira.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</div>
+</div> -->
 <br>
 
 ## References
@@ -135,5 +142,7 @@ Designed by EBAC and developed by [OliveirafullStack]()<br>
 ## License
 
 Released in 2024 This project is under the **MIT license**<br>
-Designed by EBAC and developed by [OliveirafullStack](https://oliveira-portifolio.vercel.app/)<br>
+<br>
+<br>
+
 [`voltar ao topo`](#-portfólio-github)
