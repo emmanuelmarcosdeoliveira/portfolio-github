@@ -3,11 +3,7 @@
 <br>
 <br>
 
-<img alt="GitHub Forks" src="https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/portfolio-github"/>
-<br>
-
 <!-- Titulo do Projeto -->
-
 ## ✨ Portfólio GitHub
 ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=react&logoColor=%2358C4DC&logoSize=auto&label=React&labelColor=black&color=%2358C4DC)
 ![Fork](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/portfolio-github?style=plastic)
